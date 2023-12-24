@@ -1,7 +1,3 @@
-Sure, here's the rewritten paragraph with commands, headings, and bullet points:
-
----
-
 # Hosting a React Application on an Nginx Server in a Docker Container
 
 React is a leading library for building user interfaces. Deploying a React application is a crucial aspect of web development. Docker and Nginx provide a popular solution for this deployment.
