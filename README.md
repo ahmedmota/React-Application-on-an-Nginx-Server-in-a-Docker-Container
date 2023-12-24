@@ -35,5 +35,3 @@ docker run -p 80:80 -d my-react-app
 By following these steps, a React application can be efficiently hosted on an Nginx server inside a Docker container. This ensures a smooth deployment process and provides the benefits of containerization such as improved scalability and easier management.
 
 ---
-
-I hope this rewrite provides a clear and structured understanding of the topic. If you have any more questions or need further clarification, feel free to ask! 😊
